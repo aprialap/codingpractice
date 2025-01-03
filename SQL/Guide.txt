@@ -1,0 +1,14 @@
+
+install dbeaver (salah satu database management)
+https://dbeaver.io/download/
+untuk memudahkan query, tulis query menggunakan aplikasi tersebut
+
+execute dummy.sql 
+
+Info : 
+- kerjakan di vs code
+- buka soal menggunakan vs code.
+- tulis jawaban di bawah tiap soal.
+- untuk memastikan query sudah benar silahkan jalankan query menggunakan dbeaver.
+
+Good luck!

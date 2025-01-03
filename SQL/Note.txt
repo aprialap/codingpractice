@@ -1,3 +1,0 @@
-install dbeaver (salah satu database management)
-https://dbeaver.io/download/
-untuk memudahkan query, tulis query menggunakan aplikasi tersebut
